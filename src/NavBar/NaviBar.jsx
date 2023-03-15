@@ -1,4 +1,4 @@
-import { Navbar, Link, Text, Avatar, Dropdown } from "@nextui-org/react";
+import { Navbar, Link, Text, Avatar, Dropdown, Image } from "@nextui-org/react";
 import { Layout } from "./Layout.jsx";
 import Logo from "../../public/Miss-Angie-Logo.png";
 
@@ -17,7 +17,7 @@ export function NaviBar() {
           }}
         >
           <a href="/">
-            <img src={Logo} alt="Logo" height={100} width={100} />
+            <Image src={Logo} alt="Logo" width="100px" height="150px" />
           </a>
 
           <Text b color="inherit" hideIn="xs">
