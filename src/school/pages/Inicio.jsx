@@ -2,10 +2,10 @@ import React from "react";
 import { SlideShow, Slide, TextoSlide } from "../../components";
 import "../../index.css";
 import styled from "styled-components";
-import img1 from "../../../public/image1.png";
-import img2 from "../../../public/image2.png";
-import img3 from "../../../public/image3.png";
-import img4 from "../../../public/image4.png";
+import img1 from "../../imgs/image1.png";
+import img2 from "../../imgs/image2.png";
+import img3 from "../../imgs/image3.png";
+import img4 from "../../imgs/image4.png";
 
 export const Inicio = () => {
   return (

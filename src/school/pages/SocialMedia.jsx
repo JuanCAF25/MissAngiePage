@@ -1,7 +1,7 @@
 import React from "react";
-import Logofb from "../../../public/fb-logo-sinfondo.png";
-import Logoinsta from "../../../public/insta-logo-sinfondo.png";
-import LogoTikTok from "../../../public/tiktok-logo.png";
+import Logofb from "../../imgs/fb-logo-sinfondo.png";
+import Logoinsta from "../../imgs/insta-logo-sinfondo.png";
+import LogoTikTok from "../../imgs/tiktok-logo.png";
 import styled from "styled-components";
 import "../../index.css";
 

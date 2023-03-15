@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useRef } from "react";
-import { ReactComponent as Arrowleft } from "../../public/iconmonstr-angel-left-circle-thin.svg";
-import { ReactComponent as Arrowright } from "../../public/iconmonstr-angel-right-circle-thin.svg";
+import { ReactComponent as Arrowleft } from "../imgs/iconmonstr-angel-left-circle-thin.svg";
+import { ReactComponent as Arrowright } from "../imgs/iconmonstr-angel-right-circle-thin.svg";
 import styled from "styled-components";
 
 const SlideShow = ({
