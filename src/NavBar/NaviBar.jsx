@@ -1,6 +1,6 @@
 import { Navbar, Link, Text, Image } from "@nextui-org/react";
 import { Layout } from "./Layout.jsx";
-import Logo from "../../public/Miss-Angie-Logo.png";
+import Logo from "../../public/miss-angie-logo.png";
 
 export function NaviBar() {
   const collapseItems = ["Inicio", "Redes Sociales"];
