@@ -8,6 +8,7 @@ export const SchoolRoutes = () => {
       <div className="container">
         <Routes>
           <Route path="/" element={<Inicio />} />
+          <Route path="/social-media" element={<SocialMedia />} />
         </Routes>
       </div>
     </>
