@@ -16,7 +16,9 @@ export function NaviBar() {
             },
           }}
         >
-          <Image src={Logo} alt="Logo" width="100px" height="150px" />
+          <a href="/">
+            <Image src={Logo} alt="Logo" width="100px" height="150px" />
+          </a>
 
           <Text b color="inherit" hideIn="xs">
             MISS ANGIE
